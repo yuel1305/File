@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "File"
+rootProject.name = "FileManager"
 include(":app")
  
